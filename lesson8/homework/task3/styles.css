@@ -1,0 +1,27 @@
+* {
+    margin: 50px;
+}
+
+.rectangle {
+    height: auto;
+    width: auto;
+    border: 2px solid black;
+    padding: 50px;
+    margin: auto;
+}
+
+.rectangle1 {
+    background-color: blue;
+}
+
+.rectangle2 {
+    background-color: yellow;
+}
+
+.rectangle3 {
+    background-color: green;
+}
+
+.rectangle4 {
+    background-color: pink;
+}

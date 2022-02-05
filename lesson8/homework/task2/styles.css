@@ -1,0 +1,8 @@
+.rectangle {
+    background-color: aqua;
+    height: auto;
+    width: auto;
+    border: 3px solid black;
+    padding: 50px;
+    margin-bottom: 50px;
+}
